@@ -7,7 +7,7 @@ Features include editing items, weapons, ammo, and health.
 
 
 # Installation and use
-To use this editor, navigate to the [Relase](https://github.com/JulianOzelRose/TR-AoD-SaveEdit/tree/master/TR-AoD-SaveEdit/bin/x64/Release) folder, download the EXE and run it.
+To use this editor, navigate to the [Release](https://github.com/JulianOzelRose/TR-AoD-SaveEdit/tree/master/TR-AoD-SaveEdit/bin/x64/Release) folder, download the EXE and run it.
 No installation is necessary. Once the editor is open, click Browse, then navigate to the root directory of your game. If you are using the Steam version of the game, it should be located at:
 
 `C:\Program Files (x86)\Steam\steamapps\common\Tomb Raider (VI) The Angel of Darkness\`
